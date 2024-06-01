@@ -1,8 +1,8 @@
 Dear Hiring Manager,
 
-I'm writing to express my keen interest in the DevSecOps Engineer role in EPAM, Talent, as advertised on the Job Board. With a strong background in DevOps and SRE practices for 7+ years and a passion for driving automation and innovation. I have a proven track record of success in consistently demonstrating my proficiency in improving software development and delivery processes. 
+I'm writing to express my keen interest in the Senior DevOps Engineer role in EPAM, as advertised on the Job Board. With a strong background in DevOps and SRE practices for 7+ years and a passion for driving automation and innovation. I have a proven track record of success in consistently demonstrating my proficiency in improving software development and delivery processes. 
 
-Strengthening my skills, I have successfully acquired certifications such as Certified Kubernetes Administrator, Hashicorp Terraform Associate and AWS Solution Architect
+Strengthening my skills, I have successfully acquired certifications such as ~Certified Kubernetes Administrator, Hashicorp Terraform Associate and AWS Solution Architect~
 
 **My Major focus areas** includes: Reduced infrastructure and application costs, minimized inter- and intra-service latency, addressed zero-day vulnerabilities, simplified architecture complexity, and decreased operational toil.  
   
@@ -35,10 +35,9 @@ I have a deep understanding of DevOps principles and practices, and I'm proficie
 
 Beyond technical expertise, I pride myself on being a strong communicator and team player. I have a proven track record of effectively collaborating with both technical and non-technical stakeholders to achieve shared objectives. I am passionate about fostering a culture of collaboration and continuous improvement within cross-functional teams.
 
-My motivation to apply for this role from a genuine passion for DevOps, SRE and Cloud (Platform) Engineering, coupled with a strong desire to contribute my skills in a Global Market. I am inspired by the EPAM dedication to excellence and innovation in Industry, and I am eager to align my goals with its mission. With a solid understanding of the job requirements and a proven track record of delivering results, I am confident in my ability to be a prominent contributor.
+My motivation to apply for this role from a genuine passion for DevOps, SRE and Cloud (Platform) Engineering, coupled with a strong desire to contribute my skills in a Global Market. I am inspired by the EPAM dedication to excellence and innovation in Software Engineering Industry, and I am eager to align my goals with its mission. With a solid understanding of the job requirements and a proven track record of delivering results, I am confident in my ability to be a prominent contributor.
 
 I am genuinely enthusiastic about the opportunity and Thank you for considering my application. I look forward to the possibility of discussing my candidacy with you further.
 
 Thanks & Best Regards,
-
 Ashok Rajendiran
